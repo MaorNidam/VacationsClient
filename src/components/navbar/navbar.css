@@ -1,0 +1,11 @@
+.navbar-collapse {
+    flex-grow: 0;
+  }
+
+  /* .container {
+
+  } */
+
+  .navbar-light {
+    background-color: #a4cff4f0!important;
+  }

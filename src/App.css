@@ -1,0 +1,14 @@
+
+.modal-vacation {
+    text-align: center;
+    background-color:rgb(239 245 255);
+}
+
+.modal-header {
+    display: inline-block;
+    justify-content: center;
+    font-weight: bold;
+    font-size:medium;
+    text-align: center;
+}
+
